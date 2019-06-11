@@ -1,0 +1,84 @@
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\WebApi Regi.dll.config
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\WebApi Regi.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\WebApi Regi.pdb
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\csc.exe
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\csc.exe.config
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\csc.rsp
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\csi.exe
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\csi.exe.config
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\csi.rsp
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\System.AppContext.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\System.Console.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\System.IO.Compression.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\System.Security.Claims.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\System.ValueTuple.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\vbc.exe
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\vbc.exe.config
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\vbc.rsp
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\VBCSCompiler.exe
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\EntityFramework.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\EntityFramework.SqlServer.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\Newtonsoft.Json.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\System.Net.Http.Formatting.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\System.Web.Http.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\System.Web.Http.WebHost.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\EntityFramework.xml
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\EntityFramework.SqlServer.xml
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\Newtonsoft.Json.xml
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\System.Net.Http.Formatting.xml
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\System.Web.Http.xml
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\System.Web.Http.WebHost.xml
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\obj\Debug\WebApi Regi.csproj.CoreCompileInputs.cache
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\obj\Debug\WebApi Regi.csproj.CopyComplete
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\obj\Debug\WebApi Regi.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\obj\Debug\WebApi Regi.pdb
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\Microsoft.Owin.Cors.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\Microsoft.Owin.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\Owin.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\System.Web.Cors.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\Microsoft.Owin.xml
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\Microsoft.Owin.Cors.xml
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\Microsoft.Owin.Security.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\Microsoft.Owin.Security.xml
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\aimanxcvii\Desktop\Angular 7-Web Api Register -Login\WebApi Registeration\WebApi Regi\WebApi Regi\obj\Debug\WebApi Regi.csprojAssemblyReference.cache

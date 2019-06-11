@@ -1,0 +1,14 @@
+.row{
+    text-align: center;
+    width: 300px;
+}
+h2{
+    margin-top: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    color:#920B32
+}
+
+label{
+    color:#45262F;
+    font-family: fantasy;
+}

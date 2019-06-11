@@ -1,0 +1,14 @@
+  <nav>
+    <div class="nav-wrapper">
+      <a href="#" class="brand-logo">Registeration / Login example + Authentication & Authrization</a>
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
+        
+        <li><a *ngIf="!auth.isUserLoggedIn()"  routerLink="/login">Login</a></li>
+        <li><a *ngIf="auth.isUserLoggedIn()" (click)="Logout()" routerLink="/login">LogOut</a></li>
+        <li><a routerLink="/signup">Register</a></li>
+      </ul>
+    </div>
+  </nav>
+<router-outlet></router-outlet>
+
+
