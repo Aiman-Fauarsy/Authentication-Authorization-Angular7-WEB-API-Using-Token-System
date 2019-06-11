@@ -1,0 +1,7 @@
+# Register-Login-and-Authentication-Authorization-Angular-7-WEB-API-example
+Register and login example with Authentication Authorization using Angular 7 and WEB API
+
+
+<strong>#Please before running this project remember! </strong>
+<h6>1)Install npm packages using 'npm install' command inside the angular project</h6>                
+<h6>2)Change Web API DB "Connection String" inside web api project for the correct path. </h6> 
