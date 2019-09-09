@@ -1,7 +1,9 @@
 #Authentication-Authorization-Angular-7-WEB-API-example (using Token)
 Register and login example with Authentication Authorization example project using Angular 7 and WEB API.
 
+<strong>About this project</strong>
 A full example explaning how to do Register and login and save data in Web API with explination how it works.
+Using WebApi with entityFramework for backend also nugget packages to unable cors, and add token system for Authentication and Authorization 
 
 
 <strong>#Please before running this project remember! </strong>
